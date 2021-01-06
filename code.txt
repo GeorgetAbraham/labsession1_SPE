@@ -12,4 +12,5 @@
 11.git branch -d branch1 (to delete branch)
 12.(get to master branch)git merge branch1
 13.git push origin master
+14.git push origin branch1
 14.just git branch will not reflect in github unless we push
