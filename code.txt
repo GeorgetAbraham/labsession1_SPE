@@ -1,0 +1,5 @@
+(see git version)
+1.git --version
+2.git (gives info on each command)
+3.git init(folder is made a repository)
+4.git add . (to add all the files)
