@@ -3,10 +3,13 @@
 2.git (gives info on each command)
 3.git init(folder is made a repository)
 4.git add . (to add all the files)
-5.git commit -m "Message"
+5.git commit -m "Message"(for local rep)
 6.git log(also shows commit id)
 7.git checkout commitid(we revert to that particualr commit)
 8.git status
-9.git branch "branch1"
+9.git branch "branch1"(branch always from master?)
 10.git checkout branch1 (to switch to one branch)
 11.git branch -d branch1 (to delete branch)
+12.(get to master branch)git merge branch1
+13.git push origin master
+14.just git branch will not reflect in github unless we push
